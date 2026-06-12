@@ -1,0 +1,26 @@
+X: 1
+T: Showtime (Piano Refrain)
+M: 4/4
+L: 1/16
+K: C
+[M:3/4][K:Eb]^d'8=d'2^d'2 | f8^d2f2 | g8^g4 | ^a8[g^d]/2
+^g'8c'2f'2 | g8^A2^d2 | f8d2f2 | [g=BG]8[fd]4
+^d'8=d'2^d'2 | f8^d2f2 | g6^A2g2^g2 | ^a8[^d^AG^D]4
+^g'4[f'^g]4c'2f'2 | g4[dG]/2z7/2f2d2 | c4z4^d2=d2 | c/2z15/2c2d2
+[M:2/4][M:1/4][K:C]^d6 | [M:3/4][K:Eb]z2G2c2^d2f6 | z2^A2d2f2g6 | z2^A2^a2^g2=g8
+z4[^d^A]4^g2c2 | f2^g2c2f2=g2^A2 | ^d2g2^A2^d2f2^A2 | d2f2^a2^g2[=g=B]8
+z4[fd]4^d4 | ^D2G2c2^d2f6 | z2^A2d2f2g6 | z2^A2g2^g2^a8
+z4[^d^A]4^g2c2 | f2^g2c2f2=g2=B2 | d2g2=B2d2c2G2 | ^d2g2f2=d2c6
+z2c6[^dc]8 | z4d2^d2[f^A]8 | z4d2^d2[f^G]20 | z4
+z4[^g^c]4[=g^dG]8 | z4c2^d2[f=dF]8 | z4^A2^d2[f^c^G]20 | z4
+z4g4[g^dc]12 | z8[gf]12 | z4 | z4g2^g2^c'12
+z8[c'gc]12 | z8[^agfc]12 | z8[^g=gfc]/2 | z8[^g=gfc]12
+z4 | [g''c'']8 | [f''^a']8 | [^g''^g']8^g4
+z4D4 | G,C^DG2CG,2 | ^A,DF^A2D^A,2 | z^CF^G^d^c=c^A^G=GF^D
+F^D^C=C^C=C^A,2 | C^DGcG^DC2 | DF^A2[d^A]FD2[^d^G]9 | z8^ag^d^g2
+zf^c^g=g^d^A=d[^d^D]12 | z4 | ^A,DF^AFD^A,2[^g^G]7 | z8^g/2
+[M:29/16]z9g/2z/2f^dz5^c=c^A2 | [M:3/4]C^DGcG^DC2 | [M:4/4]DF^A2z4[d'^ad]4 | [M:5/4]z10f^g^d'^c'=c'^g^af^A2
+[M:3/4][g^d]8[^d^G]8 | z8^AF^A,2 | [G^D]8[^d''^g']8 | z8[^af]2^A2
+[g^d]8 | [K:C]^CF^G^d^c=c=G^G^A/2c/2z/2^d/2c/2^A/2z/2^G/2 | G2^A,2^D2G2[F^C^G,]12 | [K:Eb]z8^G/2
+z8[G^DCG,]24 | z4 | z8[G^D^A,G,]48 | z4
+z4 | z8G,12 | z4
