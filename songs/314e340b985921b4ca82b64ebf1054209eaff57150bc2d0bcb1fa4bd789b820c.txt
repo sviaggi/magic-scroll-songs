@@ -1,0 +1,95 @@
+----------------------------------------------------------------------
+Song name: The Idiot  by  Stan Rogers
+----------------------------------------------------------------------
+This is one of my favorite songs from the Live in Halifax album. The lyrics strike close to home and it has a
+great throbbing, knuckle-dragging, Neanderthal kind of rhythm. This coupled with Stan Rogers's voice makes an 
+amazing song.
+
+From what I can tell based on this track most of the chords out there are slightly off, but I guess that may 
+be just me. There are some fill lick/riff/things that I could not quite figure out, but they seem to be a
+variation of the "Travis" picking pattern. From what I can figure it is something like this,
+(the strings change based on the chord, but this should be the pattern):
+e|-----2---------2-|
+B|-----3-----3-----|
+G|-----2-------2---|
+D|-0---0-----------|
+A|---------0-------|
+E|-----------------|
+
+In some places it can be heard clearly-(ish) and sounds more like this:
+e|-----2---------2-|
+B|-----3-------3---|
+G|-----2-----2-----|
+D|-0---0-----------|
+A|---------0-------|
+E|-----------------|
+Also, Stan seems to use an odd tuning for most of his songs, but I could not tell if this was one of them, 
+I tried to use it but couldn't make it work. His tuning is a variation of DADGAD and can be decently 
+replicated as such. From what I can tell his exact tuning is: DADGBD.
+Anyway, with due apologies to my fellow Albertans and Ontarians, but no apologies to Morris Dancers, here is
+my rendition of The Idiot by Stan Rogers.
+
+[Intro] (D Chord)
+
+e|---------------2-|---------2-------|
+B|-------------3---|---------3-------|
+G|-----------2-----|---------2-------|
+D|-0---0---0-------|-0---0---0-------| x2
+A|-----------------|-----------------|
+E|-----------------|-----------------|
+
+[Verse]
+D                   A          Bm              G             Bm
+I often take these night shift walks when the foreman's not around.
+   G                   D                                A
+I turn my back on the cooling stacks and make for open ground.
+    D               A         Bm              G                  Bm
+Far out beyond the tank farm fence where the gas flare makes no sound,
+   G                      D                A        G      D
+I forget the stink and I always think back to that Eastern town.
+
+[Verse]
+D                    A     Bm        G             Bm
+I remember back six years ago, this Western life I chose.
+      G              D                                    A
+And every day, the news would say some factory's going to close.
+         D                    A       Bm         G              Bm
+Well, I could have stayed to take the Dole, but I'm not one of those.
+        G                 D                A     G   D
+I take nothing free, and that makes me an idiot, I suppose.
+
+[Chorus]
+      G                   D              D/A             A
+So I bid farewell to the Eastern town I never more will see;
+     G               D                          A
+But work I must so I eat this dust and breathe refinery.
+      D                       A        Bm            G                 Bm
+Oh I miss the green and the woods and streams and I don't like cowboy clothes;
+       G                   D                A         D
+But I like being free and that makes me an idiot I suppose.
+
+[Break] (same as verse with a fiddle playing the melody)
+D         A     Bm      G             Bm
+G         D                           A
+D         A     Bm      G             Bm
+G         D             A             D
+
+[Verse]
+    D                       Bm                   G             Bm
+So come all you fine young 'fellers who've been beaten to the ground.
+      G                   D                                  A
+This western life's no paradise, but it's better than lying down.
+         D                                 A       Bm             G               Bm
+Oh, the streets aren't clean, and there's nothing green, and the hills are dirty brown,
+         G                    D                  A                  D
+But the government Dole will rot your soul back there in your home town.
+
+[Chorus]
+    G                   D                D/A             A
+So bid farewell to the Eastern town you never more will see.
+         G                   D                         A
+There's self-respect and a steady cheque in this refinery.
+          D                     A        Bm                G                   Bm
+You will miss the green and the woods and streams and the dust will fill your nose.
+      G                  D                A          D
+But you'll be free, and just like me, an idiot, I suppose
