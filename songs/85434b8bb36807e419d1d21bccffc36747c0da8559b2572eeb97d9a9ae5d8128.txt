@@ -1,0 +1,112 @@
+----------------------------------------------------------------------
+Song name: Not A Robot But A Ghost  by  Andrew Bird
+----------------------------------------------------------------------
+"Not a Robot, But a Ghost"
+by Andrew Bird
+Album- Noble Beast (2009)
+
+This song has a lot of tricky timing, a key change or two, strange section lengths, etc... 
+so listen closely to the song to hear all of that, because I've only given you the basics here. 
+Additionally, some parts are based more on the movement of different complex instrumental and 
+melodic lines than simple chords, so a few chord sections here are simply loose representations. 
+Feel free to correct them if you find a better fit. 
+Email me with questions and/or comments at Willowbrookchaps@gmail.com
+
+INTRO
+
+|: Bm6   |C#7b9 |F#m   |N.C.  :| REPEAT X4
+
+VERSE 1
+
+Bm         C#7                F#m              F#7
+I run the numbers through the floor
+Bm             C#7               F#m                F#7
+Here's how it goes, I crack the codes, I crack the codes that end the war
+
+(Fig. 1)
+
+E|---------------------------------------|
+B|---------------------------------------|
+G|---4---4--7--7----6---6---6--4--2------|
+D|---------------------------------------|
+A|---2---2--5--5----4---4---4--2--0------|
+E|---------------------------------------|
+
+I crack the codes that end the war
+
+(Fig. 2)
+
+E|---------------------------------------|
+B|-----------------------------6--7------|
+G|---4---4--7--7----6---6---6------------|
+D|-----------------------------3--4------|
+A|---2---2--5--5----4---4---4------------|
+E|---------------------------------------|
+
+    Bm
+The hour
+    F#m
+The hour
+    Bm
+The hour
+    F#m
+The hour
+
+VERSE 2- Fig.1 and Fig.2 throughout
+
+Bm         C#7            F#m           F#7
+I pushed a note under your door
+Bm             C#7                 F#m                   F#7  
+Here's how it goes, things come to blows, but we don't want this anymore
+Bm             C#7                 F#m                   F#7
+                                      No we don't want this anymore
+Bm             C#7                 F#m                   F#7
+                                         We don't want this anymore
+Bm             C#7                 F#m                              
+                                      I crack the codes you end the war
+
+
+A        C#         D         F#          
+
+A                            C#
+I hear the clockwork in your core
+D                                F#
+Time strips the gears till you forget what they were for
+A                               C#
+I push the numbers through your pores
+D                              F#
+I crack the codes I crack the codes that end the war
+
+F#maj7   G#    C#  
+How's    my    living  
+F#maj7   G#    C#
+You      can   call
+F#maj7   G#    C#
+Encrypted      numbers on
+F#maj7   G#    C#
+Bathroom       stalls,     there's
+F#maj7   G#    C#
+Something      burning,    it
+F#maj7   G#    C#
+Casts    a     pall,       it's
+F#maj7   G#    C#
+Melting      numbers       right
+F#maj7   G#    C#
+Off      the   wall
+
+
+INTERLUDE-     Bm       F#       
+
+Bm                            F#
+I run the numbers through the floor
+Bm                              F#                               
+Here's how it goes, I crack the codes, I crack the codes, you end
+    Bm        F#
+The war
+     
+OUTRO- Repeat and fade
+
+    Bm
+The hour, the hour, the hour, the hour,
+    F#
+The hour, the hour, the hour, the hour...
