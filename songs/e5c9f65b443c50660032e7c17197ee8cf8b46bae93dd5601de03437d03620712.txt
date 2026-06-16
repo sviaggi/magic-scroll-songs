@@ -1,0 +1,148 @@
+----------------------------------------------------------------------
+Song name: Where Is Love Now  by  Nickel Creek
+----------------------------------------------------------------------
+Where Is Love Now
+Written by Sam Phillips, arranged and performed by Nickel Creek.
+Charted by Richard J.M. Fry for Courtney Lawton
+*Notes and Notation* Looks there for fun things! Short things, tall things, things that
+ride on bikes! And, above all, things to help you interpret the song.
+
+Capo 4:
+Key Signature: E major/C relative to Capo
+Time Signature: 4/4
+Tempo: 69-74  Adagietto con dolcezza
+
+Chords used in order (relative to the Capo):
+Also, kids, seriously, check out notes and notations. Everything there is meant to help
+you to…a lot.
+
+C: X32010
+D/C: X3X232
+Em: 022000
+Am: X02210
+Am7/G: 3X2010 *
+F: 133211 or 13321X
+F/E: 03321X*
+Dm: XX0231
+Dm/E: 0XX231*
+D: XX0232
+
+
+Intro:
+C   D/C   C   D/C
+
+C                        Em
+If I could wait here for you,
+        Am              Am7/G    F
+Without hope or knowing what to  do.
+C                   Em
+Watch the light fade away,
+        Am              Am7/G    F        F/E
+Without fear or knowing what to say.
+
+Dm                 Dm/E   F         F/E
+Cry the tears from my     eyes.
+Dm               Dm/E  F
+Leave me here long    enough to realize.
+
+C              Em
+Where is love now?
+C              Em
+Where is love now;
+Am               D
+Out here in the dark?
+
+C    D/C
+
+C                     Em
+If I should hold all my dreams,
+            Am                    Am7/G      F
+Through the night of the way life sometimes seems.
+C                          Em
+And if I can't see which way to go,
+        Am                 Am7/G     F         F/E
+I'll stay lost in silence 'til   I  know.
+
+Dm                 Dm/E   F      F/E
+Cry the tears from my     eyes.
+    Dm             Dm/E   F
+And leave me here long   enough to realize.
+
+C              Em
+Where is love now?
+C              Em
+Where is love now;
+Am               D       Em     D
+Out here in the dark?
+
+Instrumental Solo:
+C   Em   Am   F
+C   Em   Am   F
+
+Dm                 Dm/E   F      F/E
+Cry the tears from my     eyes.
+Dm             Dm/E   F
+Leave me here long   enough to realize.
+
+C              Em
+Where is love now?
+C              Em
+Where is love now?
+C              Em
+Where is love now?
+C              Em
+Where is love now;
+Am               D
+Out here in the dark?
+
+Em     D
+
+Am               D
+Out here in the dark?
+
+Outro:
+Em     D
+Em     D
+C      D/C
+
+
+*Notes and Notations*
+ 1. Adagietto con dolcezza: Slow, but not drudging. Don’t linger on chords too long or
+else the sound will quickly get stale. As well, don’t heavy hand any of the
+chords--delicate, like a somber lament.
+
+2. In regards to picking, Sean Watkins (the guitarist for Nickel Creek) is fond of
+mimicking finger picking with his style. Think of a hideous amalgamation of Travis picking,
+flatpicking, alternating bass picking, and crosspicking. As such, there’s really no
+RIGHT way to play this song. You can do delicate picking or finger style; it’s really
+up to
+you. I’m biased, as I learned finger style first, but that is just me.
+
+3. Any chord that is marked with an asterisk is something that is PURELY OPTIONAL. As I
+mentioned, Mr. Watkins is keen on alternating bass, considering Nickel Creek very seldom
+runs with a double bassist, something odd for a bluegrass ensemble. As such, it is up to
+the guitarist to provide the stepping motion between chords. When you see a chord that
+is marked with a slash, it is a compound chord and is used as a stepping chord or a
+neighboring chord between tones.
+
+4. This part is theory babble, so feel free to disregard it. The only exception to the
+optional choice is the D/C chord, which is actually a tonic chord with a neighboring step
+up to the supertonic (D), while still holding the C. It’s not quite a suspended chord,
+as the D/C eventually resolves back to the tonic. As such, the C to D/C to C motion is
+an incomplete neighboring chord. As well, you’re probably wondering why there is an Em
+present. Well, A minor is the relative minor of C major, and the song does occasionally
+insinuate a modulation. However, seeing as it does not stay in A minor very long, this
+is simply a borrowing of chords from the relative minor rather than a full blown key change.
+That being said, you seldom (and I mean, very seldom), find a usage of a minor V chord
+(Em) in a minor key. The V7 is much more enticing, as it allows a very quick segue into a
+major IV chord in the original key and eventually back to tonic. In the context of this
+song, however, a minor V chord does work as a pivot chord from Am to C, cutting out the
+need for a bridge between a V7/vi to I. As well, it could be a vi/V chord, as Em is borrowed from the dominant of C. Then again, it could be as simple as a iii chord. It's really in the eye of the beholder. Again, just theory babble.
+
+5. I added a second way to play the F major chord. This is because in the recording, you
+never hear the octave F on the high E string in the recording, so it is, in my opinion,
+unnecessary to play it. I’m fond of leaving things out to preserve a good sound rather
+than a complete chord that doesn’t inherently do anything to enhance the harmony.
+Again, feel free to disregard this if you aren’t interested.
+
+6. Adh mor! (Good luck)
