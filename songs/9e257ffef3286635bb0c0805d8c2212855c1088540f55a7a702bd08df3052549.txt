@@ -1,0 +1,127 @@
+Chord analysis: Mats Fagergren, 2017
+
+Please use chords according to the instruction below:
+        E,A,D,G,B,e           
+        ...........
+Am/C    x,3,2,2,1,0     
+Bbmaj7  x,1,3,2,3,1     
+Gm      3,5,5,3,3,3     
+Fmaj7/C x,3,3,2,1,0
+A7      x,0,2,0,2,0
+E7      0,2,0,1,0,0
+C7      x,3,2,3,1,0
+D7/F#   2,x,0,2,1,2
+Bb/D    x,x,0,3,3,1
+
+[intro]
+
+|Dm|Dm|Am/C|Am/C|Bbmaj7|Gm|Dm|
+|C|F|A7|Dm|E7|Am|A|
+|Dm|Dm|Am/C|Am/C|Bbmaj7|Gm|Dm|A7|
+
+[verse 1]
+
+A7      Dm
+See her light, how it reigns
+Dm              Am/C
+So hard on your high plains
+Am/C   Bbmaj7    Gm
+So you take such pains
+Gm             Dm        A
+That she won't notice you
+
+[verse 2]
+
+A        Dm
+And your x-rays
+Dm              Am/C
+Of your paleo-male gaze
+Am/C     Bbmaj7    Gm
+How they rest, and play
+Gm     Dm
+Slowly corrupting you
+
+[bridge]
+
+  C                                     F
+I wonder what the chance is you want it to
+E7                       Am
+A thousand vacant stares won't make it true
+        A7
+Make it true
+
+[pre chorus]
+
+Gm             C7                      F      D7/F#
+You need a witness just to know you're there
+Gm                    C7                       F     D7/F#
+From the tips of your fingers, every strand of hair
+Gm                 C7                     F               D7/F#
+And know someone's watching you, Watching me, watching you
+D7/F#                    Gm
+And all that we look upon
+Gm          C                      A7
+You may not know me but you feel my stare
+
+[chorus]
+
+           Dm
+And if she sees you, it changes you
+Dm               Am/C
+Rearranges your molecules
+Am/C       Bbmaj7
+And if you see her, it changes her
+Gm                 Dm          A7
+She's a danger now after school
+A7         Dm
+And if she sees you, it changes you
+Dm               Am/C
+Rearranges your molecules
+Am/C       Bbmaj7
+And if you see her, it changes her
+Gm                   Dm
+She'll be seeing you after school
+C                      F
+Here's where gentlemen avert their eyes
+E7                      Am
+Maybe she's a gentleman in disguise
+   A7
+In disguise
+
+[pre chorus]
+
+Gm             C7                      F      D7/F#
+You need a witness just to know you're there
+Gm                    C7                       F     D7/F#
+From the tips of your fingers, every strand of hair
+Gm                 C7                     F               D7/F#
+And know someone's watching you, Watching me, watching you
+D7/F#                    Gm
+And all that we look upon
+Gm          C                      A7
+You may not know me but you feel my stare
+
+[instrumental]
+
+|Dm|Dm|Am/C|Am/C|Bbmaj7|Gm|Dm|A7|
+
+[chorus]
+
+        Dm               Am/C
+And if I see you, how it changes me
+Am/C       Bbmaj7   Gm         Dm           A
+And if you see ....me, how it changes you, Changes you
+A        Dm              Am/C
+And if I see you, how it changes me
+Am/C       Bbmaj7  Gm        Dm
+And if you see....me, how it changes you
+A
+Changes you
+
+[outro]
+
+|Bb/D|Bb/D|Fmaj7/C|Fmaj7/C|
+|Bbmaj7|Gm|Dm|A|
+|Bb/D|Bb/D|Fmaj7/C|Fmaj7/C|
+|Bbmaj7|Gm|Dm|A|
+|Dm|Dm|Dm|
