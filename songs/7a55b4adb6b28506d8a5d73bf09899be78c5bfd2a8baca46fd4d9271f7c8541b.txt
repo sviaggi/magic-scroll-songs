@@ -1,0 +1,180 @@
+----------------------------------------------------------------------
+Song name: The Witcher - Toss A Coin To Your Witcher  by  Misc Television
+----------------------------------------------------------------------
+                           D              C
+Alternatively you can play    instead of     in Chorus, not like in original but sounds better imo.
+
+[Verse chord fingerpicking pattern]
+
+   Am                D/F#              Dm                G
+e|---0-------------|---0-------------|---0-------------|---0-------------|
+B|-------3---3---3-|-------3---3---3-|-------3---3---3-|-------3---3---3-|
+G|-2---2---2---2---|-----------------|-----------------|-0---0---0---0---|
+D|-----------------|-4---4---4---4---|-3---3---3---3---|-----------------|
+A|-----------------|-----------------|-----------------|-----------------|
+E|-----------------|-----------------|-----------------|-----------------|
+
+[Fingerpicking pattern for transition between verses]
+   G           E7    Am
+e|---0-------------|---0-------------|
+B|-------3---3---3-|-------3---3---3-|
+G|-0---0---0---1---|-2---2---2---2---|
+D|-----------------|-----------------|
+A|-----------------|-----------------|
+E|-----------------|-----------------|
+
+
+[Verse 1]
+Am                   D
+   When a humble bard
+                Dm
+ Graced a ride along
+                Em
+ With Geralt of Rivia
+             Dsus2    Em  E
+ Along came this song
+
+[Verse 2 - fingerpicking]
+Am                          D/F#
+   From when the White Wolf fought
+                  Dm
+ A silver-tongued devil
+             G
+ His army of elves
+                        D/F#   G  E/G#
+ At his hooves did they  revel
+
+[Verse 3 - fingerpicking]
+Am                 D/F#
+   They came after me
+                  Dm
+ With masterful deceit
+               G
+ Broke down my lute
+          E7           Am
+ And they kicked in my teeth
+
+[Verse 4 - fingerpicking]
+Am                   D/F#
+   While the devil’s horns
+                   Dm
+ Minced our tender meat
+                  G
+ And so cried the Witcher
+             G      E7
+ He can’t be bleat
+
+[Chorus]
+Am        E            C
+   Toss a coin to your Witcher
+    D             Am
+ O’ Valley of Plenty
+    Am             Am
+ O’ Valley of Plenty
+
+Am
+Oh, oh, oh
+
+Am        E            C
+   Toss a coin to Your Witcher
+    D         Esus4    E
+ O’ Valley of Plenty
+
+[Fill]
+e|-----------------|
+B|-3h5p3-----------|
+G|-------5p4-2-----|
+D|-----------------|
+A|-----------------|
+E|-----------------|
+
+[Verse 5]
+Am                    D/F#
+   At the edge of the world
+                  Dm/F
+ Fight the mighty horde
+                 G
+ That bashes and breaks you
+                   D/F#    G   E/G#
+ And brings you to mourn 
+
+[Verse 6]
+Am                 D/F#
+   He thrust every elf
+                 Dm/F
+ Far back on the shelf
+                G
+ High up on the mountain
+                D/F#   G E7
+ From whence it came 
+
+[Verse 7]
+Am                   D/F#
+   He wiped out your pest
+                   Dm/F
+ Got kicked in his chest
+                      G
+ He’s a friend of humanity
+    E7           Am
+ So give him the rest
+
+[Verse 8]
+Am                D/F#
+   That’s my epic tale
+                 Dm/F
+ Our champion prevailed
+              G
+ Defeated the villain
+                       G
+ Now pour him some ale
+
+[Chorus 2]
+Am        E            C
+   Toss a coin to your Witcher
+    D             Am
+ O’ Valley of Plenty
+    Am             Am
+ O’ Valley of Plenty
+
+Am
+Oh, oh, oh
+
+Am        E            C
+   Toss a coin to your Witcher
+   D         Esus4       E
+ A friend of humanity
+
+[Chorus 3]
+Am        E            C
+   Toss a coin to your Witcher
+    D             Am
+ O’ Valley of Plenty
+    Am             Am
+ O’ Valley of Plenty
+
+Am
+Oh, oh, oh
+
+Am        E            C
+   Toss a coin to your Witcher
+   D         Esus4       E
+ A friend of humanity
+
+[Chorus 4]
+Am        E            C
+   Toss a coin to your Witcher
+    D             Am
+ O’ Valley of Plenty
+    Am            Am
+ O’ Valley of Plenty
+
+Am
+Oh, oh, oh
+
+Am        E            C
+   Toss a coin to your Witcher
+   D         Esus4       E
+ A friend of humanity
+
+[Outro]
+Am
